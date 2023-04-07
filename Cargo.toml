@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 plotters = "0.3.3"
 druid = { version = "0.8.3", features = ["png", "im", "svg", "image"] }
+sysinfo = "0.28.4"
+chrono = "0.4.24"
